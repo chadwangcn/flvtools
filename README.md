@@ -1,5 +1,5 @@
 flvtools
 ========
 
-flv parser tool 
+flv parser tool for learning adobe flv format doc
 
